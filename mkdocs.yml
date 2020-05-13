@@ -1,0 +1,16 @@
+site_name: iot-automotive
+site_url: http://iot-aws.com/iot-automotive
+site_description: AWS IoT Services for automotive
+theme: 
+    name: 'cinder'
+
+
+nav:
+    - 'main': 'index.md'
+    - 'Lab 1': 'Lab1.md'
+    - 'Lab 2': 'Lab2.md'
+    - 'Lab 3': 'Lab3.md'
+    - 'Lab 4': 'Lab4.md'
+    - 'Lab 5': 'Lab5.md'
+    - 'Lab 6': 'Lab6.md'
+    - 'Documents': 'docum.md'
